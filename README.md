@@ -11,3 +11,10 @@ A beautiful and modern login page UI with a hanging lamp and real-time adjustabl
 - 📱 Fully responsive design
 - 🔐 Login form with username & password input
 - 🎨 Pure HTML & CSS styling with minimal JavaScript
+
+- Folder Structure
+- project-root/
+│
+├── index.html # Main HTML file
+├── style.css # Custom CSS styles
+├── script.js # For interactivity like brightness control
